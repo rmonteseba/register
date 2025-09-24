@@ -1,10 +1,9 @@
 {
-  "description": "rmonteseba portfolio",
-  "repo": "https://github.com/rmonteseba/about-me",
   "owner": {
     "username": "rmonteseba"
   },
-  "record": {
+  "records": {
     "CNAME": "rmonteseba.github.io"
-  }
+  },
+  "proxied": true
 }
