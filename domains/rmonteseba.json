@@ -1,0 +1,10 @@
+{
+  "description": "rmonteseba portfolio",
+  "repo": "https://github.com/rmonteseba/about-me",
+  "owner": {
+    "username": "rmonteseba"
+  },
+  "record": {
+    "CNAME": "rmonteseba.github.io"
+  }
+}
